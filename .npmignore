@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+*.sublime-project
+src
+test
+examples
+coverage
+.babelrc
+.gitignore
+.eslintrc
